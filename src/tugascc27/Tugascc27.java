@@ -8,7 +8,7 @@ public class Tugascc27 {
         System.out.println("Data Pengumpulan Flashdisk");
         System.out.print("Nama Mahasiswa: ");
         Scanner scn = new Scanner(System.in);
-        String name = scn.next();
+        String name = scn.next(); //keren banget gan
         System.out.print("Merk Flashdisk : ");
         Scanner scm = new Scanner(System.in);
         String merk = scm.next();
